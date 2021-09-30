@@ -1,0 +1,43 @@
+body{
+    background-color: whitesmoke;
+    background-size: cover;
+}
+
+
+form{
+    background-color:purple;
+    width: 40%;
+    position: relative;
+    left: 30%;
+    border: 2px solid black;
+    border-radius: 6px;
+    padding: 5px;
+    text-align: center;
+    margin-top: 70px;
+    color: whitesmoke;
+
+}
+
+form input{
+    width: 80%;
+    margin: 30px 2px;
+    padding: 10px 3px;
+
+}form a {
+    text-decoration: none;
+    color: black;
+    font-weight: 800;
+    font-size: 17px;
+    color: whitesmoke;
+}
+
+label{
+    font-weight: 800;
+    font-size: 17px;
+    font-family: cursive;
+}
+form p{
+    font-family: cursive;
+}
+
+
